@@ -1,32 +1,12 @@
-# rancher_standalone
-description here blabalbalblbl
-blblablabla
-description here blabalbalblbl
-blblablabla
-description here blabalbalblbl
-blblablabla
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
-LONG...intentionally pro-longed non-sense just to increase the height of the displayed browser content !
+# Rancher Standalone | v 1.0
+Rancher Standalone
 
-# License
-Refer to the LICENSE file for more info !
+# SHA256 | (.tar.gz) integrity check
+**72BF7DB4B59D8080B96D098A7A0DA4EFE8154100D5763B2253CF709299E45533**
+
+# License | Apache License 2.0
+Refer to the [LICENSE](https://github.com/krakky/rancher_standalone/blob/master/LICENSE) file for more info !
 
 # Requirements
-A good strucutred OS requirements !
-- ul list
-- amd64
 - 1 GB RAM
-- bikk processor
+- amd64 processor
